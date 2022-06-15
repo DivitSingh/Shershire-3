@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53b1d737517310f4bafc166eb19cef26, type: 3}
+  m_Name: Projectile (Lava)
+  m_EditorClassIdentifier: 
+  Name: Projectile (Lava)
+  HP: 50
+  Damage: 60
+  Strength: 70
+  Resistance: 70
+  Recovery: 70
+  Speed: 20
+  itemDrops:
+  - {fileID: 8074727960164377871, guid: 7264b30f007e1fe4fb820998ddb0d56c, type: 3}
+  Block: {fileID: 0}
+  Hurt: {fileID: 8300000, guid: 4187f38f2ac754244a2312cae3ce6ba4, type: 3}
+  Death: {fileID: 8300000, guid: c0c24d35dd75ffe4a9a3bd2444aa73b9, type: 3}

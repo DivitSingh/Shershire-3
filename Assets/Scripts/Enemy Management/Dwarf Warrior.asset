@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53b1d737517310f4bafc166eb19cef26, type: 3}
+  m_Name: Dwarf Warrior
+  m_EditorClassIdentifier: 
+  Name: Dwarf Warrior
+  HP: 150
+  Damage: 5
+  Strength: 50
+  Resistance: 50
+  Recovery: 0
+  Speed: 10
+  itemDrops:
+  - {fileID: 3780627350863409033, guid: 55ef995725ace72489845571ddbdf29d, type: 3}
+  - {fileID: 2228773385529130391, guid: cdb81427f9d021240bd130d6c9a1f457, type: 3}
+  - {fileID: 2228773385529130391, guid: cdb81427f9d021240bd130d6c9a1f457, type: 3}
+  - {fileID: 2228773385529130391, guid: cdb81427f9d021240bd130d6c9a1f457, type: 3}
+  - {fileID: 2228773385529130391, guid: cdb81427f9d021240bd130d6c9a1f457, type: 3}
+  Hit: {fileID: 8300000, guid: 41c6ee4c3f1a42e45aec534f667b3e4a, type: 3}
+  Block: {fileID: 0}
+  Hurt: {fileID: 8300000, guid: 0f5bd671be6714b4498bcbcb063eb46d, type: 3}
+  Death: {fileID: 8300000, guid: d8627bbcc51c02d459117d38c596ed40, type: 3}

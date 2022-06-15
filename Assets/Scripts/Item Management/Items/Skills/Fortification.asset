@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e46a453468deb943a045d652ecbd5f9, type: 3}
+  m_Name: Fortification
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 8317677946377408322, guid: 93a5f4fbf3285434f9adfa17174970fe, type: 3}
+  Type: 5
+  Description: 'A magical aura that empowers the user with:
+
+    Buff: +25% Resistance
+
+    Duration:
+    10 seconds
+
+    Cooldown (Base): 15 Seconds'
+  Value: 2
+  Buff: 0
+  HP: 0
+  Damage: 0
+  Resistance: 0
+  Strength: 0
+  Recovery: 0
+  Speed: 0
+  originChest: {x: 0, y: 0, z: 0}
+  originWrist: {x: 0, y: 0, z: 0}
