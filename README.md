@@ -10,4 +10,4 @@ alterations during different phases which are based on enemy health.
 ScriptableObjects and modularity is utilized, which ensures non-programmers can create their own 
 enemy types, abilities, skills and afflictions based on existing code.
 
-Download Link ('<i>Shershire</i>' Series and other projects): https://divit-singh.itch.io
+Download Link ('<i>Shershire</i>' Series and other projects): https://divit-singh.itch.io/
