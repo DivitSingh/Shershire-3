@@ -7,7 +7,7 @@ battles. Boss battles have engaging mechanics including different behaviour and 
 alterations during different phases which are based on enemy health.
 
 
-ScriptableObjects and modular code is utilized, which ensures non-programmers can create their own 
+ScriptableObjects and modularity is utilized, which ensures non-programmers can create their own 
 enemy types, abilities, skills and afflictions based on existing code.
 
 Download Link to the 'Shershire Series': https://divit-singh.itch.io
